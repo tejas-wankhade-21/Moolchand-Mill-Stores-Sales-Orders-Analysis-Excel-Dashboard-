@@ -11,10 +11,6 @@ The dashboard is designed for **business stakeholders** to quickly understand pe
 
 > *Moolchand Mill Stores – Annual Report 2022*
 
-![Moolchand Mill Stores Dashboard](images/moolchand_dashboard.png)
-
-> *(Upload your dashboard screenshot inside an `images` folder and update the file name if required)*
-
 ---
 
 ## 📊 Key Insights & Analysis
